@@ -1,14 +1,15 @@
 # Abstract
+Abstracts shall be submitted as plain text entered directly into the form below. Abstracts shall not exceed 500 words (one page or less) — including title — in length and shall not contain images, graphs, tables, or any other content that is not plain text. No particular structure or appearance of the initial abstract is required.
 
-## Themes
+## Type
+Oral, Poster, or both
+
+## Relevant Themes
 ### Observational and modeling gaps. 
 Research that highlights data gaps that limit our ability to advance our understanding of any or all components of the Antarctic marine ice-sheet systems. What are the community needs for future satellite-, airborne-, ground-, and ship-based measurements? How do we access and analyze the growing volume of model output? 
 
 ### Improving predictability. 
 Research that aims to improve our ability to predict or understanding present and future behavior of ice sheets, ice shelves, and the surrounding ice-ocean system. We seek process modeling contributions as well as observation-driven analysis for model refinement and contextualization. The session is not limited to ice behavior, but rather is open to the predictability of driving processes and any other component of the system as well.
-
-### Atmospheric and oceanic drivers. 
-New discoveries and insights relating to atmospheric drivers of change (such as surface mass balance, firn processes, extraordinary snow events, atmospheric rivers), oceanic drivers of change (such as grounding zone processes, ice-shelf stability, sea ice conditions, sub-ice-shelf processes), and feedbacks within the atmospheric-ice-ocean system.
 
 ### Marine ice sheet sensitivity in the climate system. 
 Research that highlights and/or integrates our evolving understanding of ice-sheet response to past, present, and future climate forcing, ice dynamics, and biogeochemical systems. We welcome submissions that include studies of ice cores, sediment cores, geology, topography, sub-/en-/supra-glacial hydrology, geomorphology, numerical models, and more. 
@@ -16,7 +17,27 @@ Research that highlights and/or integrates our evolving understanding of ice-she
 ### Antarctic Open Science. 
 What does "open science" mean for the WAIS community? How do we achieve open science at the end of the Earth to leverage existing datasets, modeling frameworks, and model outputs to accelerate our science? What should our open science ecosystem look like, from proposal development to data collection and analysis to conference presentations, publication, and beyond? What are key technical, social, financial, or other barriers we encounter to adopt open science practices in our field? Do we need to rethink the "slide deck" model of conferences like WAIS Workshop to foster our open science goals? We seek contributions that identify concrete, actionable directions on which the community can build change and that explore the capabilities and challenges of open scientific collaboration. 
 
-### WAIS and the Community. 
-Actionable science requires civic engagement and co-production of knowledge with people out the confines of academic and research institutions. We week contributions that describe efforts to provide insight on and examples of community development that mutually benefit all parties involved as well as contributions that promote the development of inclusive and equitable research and learning spaces. 
+## GRL 2022: [Basement Topography and Sediment Thickness Beneath Antarctica's Ross Ice Shelf](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097371)
+### Abstract
 
-In addition to talks, WAIS Workshop will have space for posters. There will be an opportunity to give a very brief overview of a poster topic to the audience just prior to the poster sessions. Posters have historically received a great deal of attention at WAIS Workshops.
+New geophysical data from Antarctica's Ross Embayment reveal the structure and subglacial geology of extended continental crust beneath the Ross Ice Shelf. We use airborne magnetic data from the ROSETTA-Ice Project to locate the contact between magnetic basement and overlying sediments. We delineate a broad, segmented basement high with thin (0–500m) non-magnetic sedimentary cover which trends northward into the Ross Sea's Central High. Before subsiding in the Oligocene, this feature likely facilitated early glaciation in the region and subsequently acted as a pinning point and ice flow divide. Flanking the high are wide sedimentary basins, up to 3700m deep, which parallel the Ross Sea basins and likely formed during Cretaceous-Neogene intracontinental extension. NW-SE basins beneath the Siple Coast grounding zone, by contrast, are narrow, deep, and elongate. They suggest tectonic divergence upon active faults that may localize geothermal heat and/or groundwater flow, both important components of the subglacial system.
+Key Points
+
+* Aeromagnetic analysis reveals basement surface and evidence of fault-controlled extensional basins beneath Antarctica's Ross Ice Shelf (RIS)
+* Active faults at Siple Coast likely influence ice streams through control of geothermal heat, groundwater, and glacioisostatic adjustments
+* A basement high beneath RIS spatially coincides with a lithospheric boundary, with contrasting sedimentary basins on either side
+
+### Plain Language Summary
+
+The bedrock geology of Antarctica's southern Ross Embayment is concealed by 100–1000s of meters of sedimentary deposits, seawater, and the floating Ross Ice Shelf (RIS). Our research strips away those layers to discover the shape of the consolidated bedrock below, which we refer to as the basement. To do this, we use the contrast between non-magnetic sediments and magnetic basement rocks to map out the depth of the basement surface under the RIS. Our primary data source is airborne measurements of the variation in Earth's magnetic field across the ice shelf, from flight lines spaced 10-km apart. We use the resulting basement topography to highlight sites of possible influence upon the Antarctic Ice Sheet and to further understand the tectonic history of the region. We discover contrasting basement characteristics on either side of the ice shelf, separated by a N-S trending basement high. The West Antarctic side displays evidence of active faults, which may localize geothermal heat, accommodate movements of the solid earth caused by changes in the size of the Antarctic Ice Sheet, and control the flow of groundwater between the ice base and aquifers. This work addresses critical interactions between ice and the solid earth.
+
+### Discussion
+
+Sub-RIS sedimentary basins align with and show lateral continuity with the Ross Sea's Roosevelt Sub-Basin, Eastern Basin, Coulman Trough, and Victoria Land Basin (Figure 3, e.g., Cooper et al., 1995). The MSH passes northward into the Ross Sea's prominent Central High (CH). At the southern RIS margin, the narrow Siple Dome Basin has continuity with the previously identified Trunk D Basin (Figure 3a, Bell et al., 2006). The throughgoing trends imply regional continuity of crustal structure and a common tectonic development of the Ross Sea and RIS regions. Our sediment thicknesses are compatible with those determined by (a) eight active-source seismic surveys (Figure 3b), for which the median misfit is 470m (Table S1 in Supporting Information S1), and (b) surface wave dispersion indicating 2–4 km of sediment under the RIS, similar to our range, with the maximum beneath Crary Ice Rise (Zhou et al., 2022). Three additional western RIS seismic profiles report up to several kilometers of sediment, in general accordance with our results (Beaudoin et al., 1992; Stern et al., 1991; ten Brink et al., 1993). Additionally, machine learning applied to geophysical datasets predicts a high likelihood of sedimentary basins at the locations of Siple Dome Basin and Crary Trough (L. Li et al., 2021).****
+
+### Conclusions
+
+Here we present a depth to magnetic basement map for the RIS from Werner deconvolution of airborne magnetic data. The RIS magnetic basement is tied to Ross Sea seismic basement, providing the first synthetic view of Ross Embayment crustal structure. Using a bathymetry model, we obtain the sediment thickness distribution and calculate crustal extension factors for the sub-RIS. The extensional features we image, resulting from West Antarctic Rift System extension, have continuity with Ross Sea basement structures to the north, and the prominent Mid-Shelf High trends northward into the Ross Sea's CH. This combined high separates East and West Antarctic type crust, affected by different degrees of continental extension. The Mid-Shelf High was likely subaerial in the Oligocene, able to support alpine ice caps in early Antarctic glaciation. Subsequently it formed a prominent pinning point and ice flow divide between the East and West Antarctic Ice Sheets.
+
+Newly identified narrow, linear, deep sedimentary basins provide evidence of active faults beneath the Siple Coast GZ, where thinned crust overlying anomalous mantle (Shen, Wiens, Anandakrishnan, et al., 2018) likely experiences elevated geothermal heat flow promoting the formation of subglacial water. Faults that control basement margins may accommodate motion caused by the glacioisostatic response to ice sheet volume changes. Subglacial sedimentary basins in this setting likely contain confined aquifers within permeable basin fill. Here, ice overburden pressure would control flow both between and within the subglacial and groundwater systems, possibly localizing geothermal heat. Updated sediment thickness and basin extents should be incorporated into new paleotopographic reconstructions of time intervals of interest for paleo-ice sheet modeling. Our work contributes critical information about Ross Embayment basement topography and subglacial boundary conditions that arise from an interplay of geology, tectonics, and glaciation.
+
