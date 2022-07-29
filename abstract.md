@@ -1,4 +1,4 @@
-# Abstract
+# Info
 Abstracts shall be submitted as plain text entered directly into the form below. Abstracts shall not exceed 500 words (one page or less) — including title — in length and shall not contain images, graphs, tables, or any other content that is not plain text. No particular structure or appearance of the initial abstract is required.
 
 ## Type
@@ -8,23 +8,43 @@ Oral, Poster, or both
 ### Observational and modeling gaps. 
 Research that highlights data gaps that limit our ability to advance our understanding of any or all components of the Antarctic marine ice-sheet systems. What are the community needs for future satellite-, airborne-, ground-, and ship-based measurements? How do we access and analyze the growing volume of model output? 
 
-### Improving predictability. 
-Research that aims to improve our ability to predict or understanding present and future behavior of ice sheets, ice shelves, and the surrounding ice-ocean system. We seek process modeling contributions as well as observation-driven analysis for model refinement and contextualization. The session is not limited to ice behavior, but rather is open to the predictability of driving processes and any other component of the system as well.
-
 ### Marine ice sheet sensitivity in the climate system. 
 Research that highlights and/or integrates our evolving understanding of ice-sheet response to past, present, and future climate forcing, ice dynamics, and biogeochemical systems. We welcome submissions that include studies of ice cores, sediment cores, geology, topography, sub-/en-/supra-glacial hydrology, geomorphology, numerical models, and more. 
 
 ### Antarctic Open Science. 
 What does "open science" mean for the WAIS community? How do we achieve open science at the end of the Earth to leverage existing datasets, modeling frameworks, and model outputs to accelerate our science? What should our open science ecosystem look like, from proposal development to data collection and analysis to conference presentations, publication, and beyond? What are key technical, social, financial, or other barriers we encounter to adopt open science practices in our field? Do we need to rethink the "slide deck" model of conferences like WAIS Workshop to foster our open science goals? We seek contributions that identify concrete, actionable directions on which the community can build change and that explore the capabilities and challenges of open scientific collaboration. 
 
-## GRL 2022: [Basement Topography and Sediment Thickness Beneath Antarctica's Ross Ice Shelf](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097371)
+* Could submit a minimal poster about Antarctic_plots to this.
+
+# Draft
+
+## Revealing sub-ice shelf sediment basins with airborne magnetics: implications for solid-earth-ice interactions
+
+The bedrock geology beneath Antarctica's southern Ross Embayment is concealed by 100–1000s of meters of sedimentary deposits, seawater, and the floating Ross Ice Shelf (RIS). Our research strips away those layers to discover the shape of the consolidated bedrock below, which we refer to as the basement. To do this, we use the contrast between non-magnetic sediments and magnetic basement rocks to map out the depth of the basement surface under the RIS. Our primary data source is ROSETTA-Ice airborne measurements of the variation in Earth's magnetic field across the ice shelf, from flight lines spaced 10-km apart. We use the resulting basement topography to highlight sites of possible influence upon the Antarctic Ice Sheet and to further understand the tectonic history of the region. The basement features we image are characteristic of extensional tectonics, as evidenced by the location within the West Antarctic Rift System. These features show continuity with Ross Sea basement features, suggesting a common tectonic development. In the center of the ice shelf, we delineate a broad, segmented, N-S basement high with thin (0–500m) sedimentary cover. We discover contrasting basement characteristics on either side of the RIS. The West Antarctic side displays evidence of active faults, which may localize geothermal heat, accommodate movements of the solid earth caused by changes in the size of the Antarctic Ice Sheet, and control the flow of groundwater between the ice base and aquifers. The East Antarctic side contains a wide and deep basin, with sediments over 3 km thick. This work contributes critical information about Ross Embayment basement topography and subglacial boundary conditions that arise from an interplay of geology, tectonics, and glaciation.
+
+
+
+
+
+Airborne magnetic data from the recent ROSETTA-Ice Project (2015-2019) reveals the previously obscured subglacial geology beneath the Ross Ice Shelf (RIS). Using Werner deconvolution, a technique for estimating magnetic source properties, we locate the contact between the magnetic basement and overlying sediments for the entirety of the ice shelf. We validated and tuned the method nearby in the Ross Sea with Operation Ice Bridge airborne magnetic data and ship-borne seismic basement depths from the ANTOSTRAT Project. The basement features we image are characteristic of extensional tectonics, as evidenced by the embayment's location within the West Antarctic Rift System. 
+
+Our sub-RIS results show a broad, segmented basement high with thin (0-500 m) non-magnetic sedimentary cover which trends northward into the Ross Sea's Central High. Before subsiding below sea level, this approximately 200 km wide feature 
+
+New geophysical data from Antarctica's Ross Embayment illuminate the structure and subglacial geology of subsided continental crust beneath the Ross Ice Shelf. We use airborne magnetic data from the ROSETTA-Ice Project (2015-2019) to locate the basement-cover contact and map the extent of sedimentary basins. We delineate a broad, segmented high with thin (0-500 m) sedimentary cover which trends northward into the Ross Sea's Central High. Before subsiding below sea level, this feature likely facilitated early glaciation in the region and subsequently acted as a pinning point and ice flow divide. Flanking the high are wide basins, up to 3700 m deep, parallel with Ross Sea basins, which likely formed during Cretaceous-Neogene intracontinental extension. NW-SE basins beneath the Siple Coast grounding zone, by contrast, are narrow, deep, and elongate. They suggest tectonic divergence upon active faults that would localize geothermal heat and/or groundwater flow, both important components of the subglacial system.
+
+
+
+# GRL 2022: [Basement Topography and Sediment Thickness Beneath Antarctica's Ross Ice Shelf](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097371)
 ### Abstract
 
 New geophysical data from Antarctica's Ross Embayment reveal the structure and subglacial geology of extended continental crust beneath the Ross Ice Shelf. We use airborne magnetic data from the ROSETTA-Ice Project to locate the contact between magnetic basement and overlying sediments. We delineate a broad, segmented basement high with thin (0–500m) non-magnetic sedimentary cover which trends northward into the Ross Sea's Central High. Before subsiding in the Oligocene, this feature likely facilitated early glaciation in the region and subsequently acted as a pinning point and ice flow divide. Flanking the high are wide sedimentary basins, up to 3700m deep, which parallel the Ross Sea basins and likely formed during Cretaceous-Neogene intracontinental extension. NW-SE basins beneath the Siple Coast grounding zone, by contrast, are narrow, deep, and elongate. They suggest tectonic divergence upon active faults that may localize geothermal heat and/or groundwater flow, both important components of the subglacial system.
+
 Key Points
 
 * Aeromagnetic analysis reveals basement surface and evidence of fault-controlled extensional basins beneath Antarctica's Ross Ice Shelf (RIS)
+
 * Active faults at Siple Coast likely influence ice streams through control of geothermal heat, groundwater, and glacioisostatic adjustments
+
 * A basement high beneath RIS spatially coincides with a lithospheric boundary, with contrasting sedimentary basins on either side
 
 ### Plain Language Summary

@@ -1,6 +1,8 @@
 # WAIS_2022
 Materials for the [West Antarctic Ice Sheet Workshop and Conference](https://www.waisworkshop.org/2022-wais-workshop), 2022.
 
+[Abstract portal](https://mines.eventsair.com/PresentationPortal/Account/Login?ReturnUrl=%2FPresentationPortal%2F23gp1120awais%2Fabstracts)
+
 ## Deadlines
 The deadline for Abstract Submission is August 12 at 5:00 PM PDT (UTC-7). Abstract submission is separate from the registration process. Submit your abstract here.
 Early-career travel support request deadline is also August 12. We have limited funds to support air or ground travel to the meeting as well as registration fees (including lodging). Please submit your applicationf or early-career travel support via this form. 
