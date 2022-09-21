@@ -9,6 +9,8 @@ Kirsty Tinto<sup>5</sup>
 > <sup>4</sup> University of Genova<br>
 > <sup>5</sup> Lamont-Doherty Earth Observatory, Columbia University<br>
 
+![](Tankersley_WAIS_2022.pdf)
+
 Poster presented at the West Antarctic Ice Sheet Workshop 2022
 
 Also presented at the SCAR INSTANT 2022 workshop titled: The Future of Geodetic-Geophysical Observational Networks in Antarctica.
