@@ -9,7 +9,11 @@ Kirsty Tinto<sup>5</sup>
 > <sup>4</sup> University of Genova<br>
 > <sup>5</sup> Lamont-Doherty Earth Observatory, Columbia University<br>
 
-![](Tankersley_WAIS_2022.pdf)
+![](Tankersley_WAIS_2022.png)
+
+* [GitHub repository](https://github.com/mdtanker/RIS_basement_sediment) with open-source code used in this research.
+* [Figshare link](doi.org/10.6084/m9.figshare.21172042) for this poster.
+* [GRL 2022 paper](https://doi.org/10.1029/2021GL097371) associated with this work.
 
 Poster presented at the West Antarctic Ice Sheet Workshop 2022
 
