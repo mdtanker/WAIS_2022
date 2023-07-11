@@ -12,7 +12,7 @@ Kirsty Tinto<sup>5</sup>
 ![](Tankersley_WAIS_2022.png)
 
 * [GitHub repository](https://github.com/mdtanker/RIS_basement_sediment) with open-source code used in this research.
-* [Figshare link](doi.org/10.6084/m9.figshare.21172042) for this poster.
+* [Figshare link]([doi.org/10.6084/m9.figshare.21172042](https://figshare.com/articles/poster/Poster_Revealing_sub-ice_shelf_sediment_basins_with_airborne_magnetics/21172042)) for this poster.
 * [GRL 2022 paper](https://doi.org/10.1029/2021GL097371) associated with this work.
 
 Poster presented at the West Antarctic Ice Sheet Workshop 2022
